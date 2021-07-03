@@ -13,12 +13,18 @@
 
 
 .card{
-    background: rgb(6, 6, 6);
+    
+    background: rgb(19, 63, 165);
 }
 
 
+.card h4{
+    color: aliceblue;
+}
 
-
+.card p{
+    color: aliceblue;
+}
 
 
 
