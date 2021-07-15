@@ -11,7 +11,7 @@
     <a href="https://antuansabe.github.io/Interior-Consultant/">
       Demo
     </a>
-
+     
     <span> | </span>
     <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
       Challenge
@@ -67,5 +67,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@your-username](https://github.com/antuansabe)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
