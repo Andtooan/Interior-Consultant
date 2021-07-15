@@ -11,11 +11,6 @@
     <a href="https://antuansabe.github.io/Interior-Consultant/">
       Demo
     </a>
-     
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
-      Challenge
-    </a>
   </h3>
 </div>
 
